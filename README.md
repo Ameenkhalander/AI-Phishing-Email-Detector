@@ -1,5 +1,27 @@
 # 🎣 AI-Powered Phishing Email Detector
 
+# 🎣 AI-Powered Phishing Email Detector
+
+<p align="center">
+
+  🚀 **LIVE PROJECT DEMO**
+
+  <br>
+
+  <a href="https://phishing-email-detector1.streamlit.app/">
+    🌐 Open AI Phishing Email Detector
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/Ameenkhalander/AI-Phishing-Email-Detector">
+    📂 View Source Code on GitHub
+  </a>
+
+</p>
+
+
+
 A Python machine-learning + NLP project that classifies emails as **phishing** or **legitimate**.
 
 - Cleans and preprocesses raw email text (lowercase, HTML/URL/email-address handling, punctuation removal)
