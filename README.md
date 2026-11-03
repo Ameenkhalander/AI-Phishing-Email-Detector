@@ -1,12 +1,9 @@
 # 🎣 AI-Powered Phishing Email Detector
 
-
 <p align="center">
 
   🚀 **LIVE PROJECT DEMO**
-
   <br>
-
   <a href="https://phishing-email-detector1.streamlit.app/">
     🌐 Open AI Phishing Email Detector
   </a>
