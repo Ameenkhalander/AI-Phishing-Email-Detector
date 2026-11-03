@@ -1,6 +1,5 @@
 # 🎣 AI-Powered Phishing Email Detector
 
-# 🎣 AI-Powered Phishing Email Detector
 
 <p align="center">
 
