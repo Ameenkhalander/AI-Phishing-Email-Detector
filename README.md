@@ -9,7 +9,6 @@
   </a>
 
   <br><br>
-
   <a href="https://github.com/Ameenkhalander/AI-Phishing-Email-Detector">
     📂 View Source Code on GitHub
   </a>
